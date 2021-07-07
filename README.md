@@ -1,0 +1,2 @@
+# AmazonSellerFilterBookmarklet
+Amazon.co.jpの検索結果からAmazon発送以外の商品を除外するブックマークレット用Javascript
