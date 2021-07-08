@@ -1,0 +1,1 @@
+(function(){var a=new URL(window.location.href);"www.amazon.co.jp"==a.hostname&&"/s"==a.pathname&&(null==a.searchParams.get("emi")?a.searchParams.append("emi","AN1VRQENFRJN5"):a.searchParams.set("emi","AN1VRQENFRJN5"),location.href=a)})();
